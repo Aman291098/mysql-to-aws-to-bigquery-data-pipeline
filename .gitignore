@@ -11,7 +11,11 @@ venv/
 __pycache__/
 *.pyc
 
-# VS Code local settings
+# VS Code local settingsgit status
 .vscode/
 
+# Extracted database data
 data/raw/
+data/cdc/
+
+data/processed/
