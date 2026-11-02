@@ -13,3 +13,5 @@ __pycache__/
 
 # VS Code local settings
 .vscode/
+
+data/raw/
